@@ -10,13 +10,13 @@
 
 <br><br>
 
-<img src="./nana.jpg" width="220" alt="Nana anime picture 1"/>
-&nbsp;&nbsp;
-<img src="./nana2.jpg" width="220" alt="Nana anime picture 2"/>
-
-<br><br>
-
 </div>
+
+<!-- PINK NANA IMAGE AT THE TOP -->
+
+<img src="./nana.jpg" width="100%" alt="Pink Nana anime aesthetic"/>
+
+<br>
 
 ---
 
@@ -125,3 +125,13 @@ Exploring AI/ML, web development, and data-driven applications as I grow my skil
 <i>Still learning. Still building. Still becoming. ✨</i>
 
 </div>
+
+<br><br>
+
+---
+
+<!-- BLACK-AND-WHITE NANA IMAGE AT THE VERY BOTTOM -->
+
+<img src="./nana2.jpg" width="100%" alt="Black and white Nana anime aesthetic"/>
+
+<br>
