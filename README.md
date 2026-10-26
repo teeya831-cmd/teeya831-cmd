@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=6C5B9E&text=TEEY A&fontColor=FFFFFF&fontSize=65&fontAlignY=50&desc=learning%20%7C%20building%20%7C%20becoming&descAlignY=72&descSize=16" width="100%" alt="Teeya's banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=6C5B9E&text=TEEYA&fontColor=FFFFFF&fontSize=65&fontAlignY=50&desc=learning%20%7C%20building%20%7C%20becoming&descAlignY=72&descSize=16" width="100%" alt="Teeya's banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8A8E8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Teeya+%F0%9F%91%8B;AI%2FML+student+%F0%9F%A4%96;Building+ideas+into+reality;Curiosity+over+comfort." alt="Typing introduction"/>
 
@@ -8,11 +8,19 @@
 
 <i>Somewhere between curiosity, code, and figuring it all out.</i>
 
+<br><br>
+
+<img src="./nana.jpg" width="220" alt="Nana anime picture 1"/>
+&nbsp;&nbsp;
+<img src="./nana2.jpg" width="220" alt="Nana anime picture 2"/>
+
+<br><br>
+
 </div>
 
 ---
 
-## 𖦹   ABOUT ME
+## 𖦹 ABOUT ME
 
 Hey! I'm **Teeya**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning.
 
@@ -38,7 +46,7 @@ class Teeya:
 
 ---
 
-## 𖤐   WHAT I'M EXPLORING
+## 𖤐 WHAT I'M EXPLORING
 
 * 🤖 Artificial Intelligence & Machine Learning
 * 🌐 Full-Stack Web Development
@@ -48,17 +56,17 @@ class Teeya:
 
 ---
 
-## ⚙️   MY TOOLKIT
+## ⚙️ MY TOOLKIT
 
 <div align="center">
 
-**Languages**
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Programming languages"/>
 
 <br><br>
 
-**Frameworks, Databases & Tools**
+### Frameworks, Databases & Tools
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,supabase,mysql,mongodb,git,github,vscode" alt="Development tools"/>
 
@@ -66,7 +74,7 @@ class Teeya:
 
 ---
 
-## ✧   THINGS I'M BUILDING
+## ✧ THINGS I'M BUILDING
 
 ### 🚦 Trafflow
 
@@ -88,7 +96,7 @@ Exploring AI/ML, web development, and data-driven applications as I grow my skil
 
 ---
 
-## 𖠌   CURRENTLY
+## 𖠌 CURRENTLY
 
 * Strengthening my foundations in Java, DSA, Python, and Machine Learning.
 * Building practical projects and collaborating with other developers.
@@ -96,7 +104,7 @@ Exploring AI/ML, web development, and data-driven applications as I grow my skil
 
 ---
 
-## ☎   FIND ME AROUND THE INTERNET
+## ☎ FIND ME AROUND THE INTERNET
 
 <div align="center">
 
